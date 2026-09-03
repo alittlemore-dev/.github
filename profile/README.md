@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../attachments/logo-clean.png" alt="alittlemore.dev" width="320">
+  <img src="../attachments/logo-profile.png" alt="alittlemore.dev" width="320">
 </p>
 
 <h1 align="center">A little more, every day.</h1>
